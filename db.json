@@ -2,6 +2,7 @@
   "events": [
     {
       "id": 123,
+      "link": "nutrition",
       "category": "animal welfare",
       "title": "Date of the Eating!!!!",
       "description": "Eating desires",
@@ -12,6 +13,7 @@
     },
     {
       "id": 456,
+      "link": "food",
       "category": "food",
       "title": "!!!Starting Date of the Eating",
       "description": "Eating desires",
@@ -22,6 +24,7 @@
     },
     {
       "id": 789,
+      "link": "disorder",
       "category": "sustainability",
       "title": "!!!!!!!!!!Starting Date of the Eating!!!!!",
       "description": "Eating desires",
