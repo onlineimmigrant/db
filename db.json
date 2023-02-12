@@ -3,6 +3,7 @@
     {
       "id": 123,
       "image": "https://res.cloudinary.com/dzagcqrbp/image/upload/v1675591737/onlineimmigrant/mgesyezawi343caikyzp.jpg",
+      "alt": "How to eat",
       "section": "Nutrition",
       "link": "nutrition",
       "category": "animal welfare",
@@ -16,6 +17,7 @@
     {
       "id": 456,
       "image": "https://res.cloudinary.com/dzagcqrbp/image/upload/v1675588580/onlineimmigrant/bxgqeehlckx9pgkrol1v.svg",
+      "alt": "How to be hungry",
       "section": "Eating Disorders",
       "link": "food",
       "category": "food",
@@ -29,6 +31,7 @@
     {
       "id": 789,
       "image": "https://res.cloudinary.com/dzagcqrbp/image/upload/v1668792850/onlineimmigrant/ttuolubesuzwkeo2hkdh.jpg",
+      "alt": "How to escape anorexia",
       "section": "Anorexia",
       "link": "disorder",
       "category": "sustainability",
@@ -42,6 +45,7 @@
         {
       "id": 889,
       "link": "disorder",
+      "alt": "How to escape bulimia",
       "section": "Bulimia",
       "image": "https://res.cloudinary.com/dzagcqrbp/image/upload/v1668439609/onlineimmigrant/gj1txxbhmwtx3sgktd72.svg",
       "category": "sustainability",
